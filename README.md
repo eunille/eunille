@@ -92,47 +92,9 @@ Computer Science student passionate about **software engineering, backend develo
 
 ## 🐍 Contribution Snake
 
-To show the **snake animation in your contribution graph**, create this GitHub Action workflow:
-
-### `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: eunille
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add this to your README where you want the snake to appear:
-
-```md
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/eunille/eunille/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-```
-
----
 
 ## 🤝 Connect With Me
 
