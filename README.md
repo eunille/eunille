@@ -24,7 +24,7 @@ Computer Science student passionate about **software engineering, backend develo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eunille&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=eunille&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Computer Science student passionate about **software engineering, backend develo
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eunille/eunille/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/eunille/eunille/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 🤝 Connect With Me
