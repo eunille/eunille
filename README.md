@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=eunille&label=Profile%20views&color=0e75b6&style=flat" alt="eunille" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 Computer Science student passionate about **software engineering, backend development, cybersecurity, and automation**. I enjoy building practical systems that solve real problems, from web platforms and internal tools to security-focused applications.
 
