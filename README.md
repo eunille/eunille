@@ -1,4 +1,4 @@
-# Hi there, I'm Eunille Jan 👋
+# Hi there, I'm Eunille Jan
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eunille&label=Profile%20views&color=0e75b6&style=flat" alt="eunille" />
