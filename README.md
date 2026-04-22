@@ -59,10 +59,10 @@ I build autonomous AI systems, end-to-end workflow automation platforms, and ent
 
 ## 💼 What I Build
 
-🤖 **Autonomous AI Agents:** LLM tool calling, RAG pipelines, and multi-step orchestration[cite: 80].
-🔐 **Security Platforms:** Enterprise phishing detection, SOC automation, and incident response tools[cite: 6].
-🗃️ **Microservices & APIs:** Centralized threat intelligence APIs and scalable backend architectures[cite: 7].
-⚙️ **Workflow Automation:** Trigger-action pipelines mapping complex business logic without manual intervention[cite: 87, 96].
+🤖 **Autonomous AI Agents:** LLM tool calling, RAG pipelines, and multi-step orchestration
+🔐 **Security Platforms:** Enterprise phishing detection, SOC automation, and incident response tools
+🗃️ **Microservices & APIs:** Centralized threat intelligence APIs and scalable backend architectures
+⚙️ **Workflow Automation:** Trigger-action pipelines mapping complex business logic without manual intervention
 
 ---
 
@@ -77,7 +77,6 @@ I build autonomous AI systems, end-to-end workflow automation platforms, and ent
 **AutoSystems** — A fully autonomous B2B lead qualification agent utilizing a dual-model LLM pipeline (Groq + Gemini) for real-time web research
 **PropFlow** — A full-funnel real estate automation system orchestrating intake, CRM entry, and nurture sequences via n8n
 
-> *(Link these to your respective repositories!)*
 
 ---
 
