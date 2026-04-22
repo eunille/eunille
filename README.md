@@ -6,13 +6,15 @@
 
 ## About Me
 
-Computer Science student passionate about **software engineering, backend development, cybersecurity, and automation**. I enjoy building practical systems that solve real problems, from web platforms and internal tools to security-focused applications.
+[cite_start]**Security Engineer · AI Automation Developer · Full-Stack Developer** 
 
-* 🔭 Currently building projects in **Laravel, Node.js, React, and Tailwind CSS**
-* 🌱 Learning more about **system design, DevOps, and secure application development**
-* 🛡️ Interested in **SOC, threat intelligence, phishing detection, and ethical hacking**
-* ⚙️ I like turning manual workflows into **automated systems**
-* 🎯 Goal: grow as a **Software Engineer / Cybersecurity Engineer**
+[cite_start]I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools[cite: 79]. [cite_start]I am passionate about creating systems that can detect, reason, and respond—from real-time email classification engines to centralized threat intelligence microservices[cite: 7].
+
+* [cite_start]🔭 Currently architecting **enterprise-grade AI automation platforms and phishing detection systems**.
+* [cite_start]🌱 Focusing on **LLM tool calling, multi-step agent orchestration, and SOC operations**[cite: 11, 84].
+* [cite_start]🛡️ Maintaining a **Top 4% global ranking on TryHackMe** out of 2M+ users.
+* [cite_start]⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**[cite: 81].
+* [cite_start]🎯 Goal: Continuously scale secure, AI-driven automation workflows[cite: 79, 94].
 
 ---
 
@@ -31,62 +33,60 @@ Computer Science student passionate about **software engineering, backend develo
 
 ## 🧰 Tech Stack
 
+### AI & Security
+![Groq](https://img.shields.io/badge/Groq-111827?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini)
+![n8n](https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kali-linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark)
+
 ### Languages
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge\&logo=php)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge\&logo=postgresql)
-
-### Frameworks & Tools
-
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge\&logo=laravel)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge\&logo=tailwind-css)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql)
+### Frameworks & Infrastructure
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
 
 ---
 
 ## 💼 What I Build
 
-* 🌐 Web applications and dashboards
-* 🔐 Security-focused tools and phishing detection systems
-* 🗃️ Backend APIs and database-driven systems
-* 🤖 Workflow automation using APIs and no-code/low-code tools
-* 📈 Practical software solutions for real-world problems
+* [cite_start]🤖 **Autonomous AI Agents:** LLM tool calling, RAG pipelines, and multi-step orchestration[cite: 80].
+* [cite_start]🔐 **Security Platforms:** Enterprise phishing detection, SOC automation, and incident response tools[cite: 6].
+* [cite_start]🗃️ **Microservices & APIs:** Centralized threat intelligence APIs and scalable backend architectures[cite: 7].
+* [cite_start]⚙️ **Workflow Automation:** Trigger-action pipelines mapping complex business logic without manual intervention[cite: 87, 96].
 
 ---
 
 ## 🌟 Featured Projects
 
-### Threat Intelligence / Security Projects
+### 🛡️ Security & AI Projects
+* [cite_start]**Auralis (AI Phishing Detection)** — An enterprise-grade platform scoring emails in real-time across domain trust, SPF/DKIM/DMARC, and TI-API threat correlation[cite: 117, 120].
+* [cite_start]**TI-API** — A centralized threat intelligence microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to reduce redundant API calls[cite: 95].
+* [cite_start]**Incident Report Writer** — An AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting[cite: 123, 125].
 
-* **Threat Intel Hive** — centralized threat intelligence concept and security-focused project work
-* **Phishing Detection Workflow** — automation-oriented project for detecting suspicious email patterns
+### 🌐 Autonomous Automation
+* [cite_start]**AutoSystems** — A fully autonomous B2B lead qualification agent utilizing a dual-model LLM pipeline (Groq + Gemini) for real-time web research[cite: 111, 113].
+* [cite_start]**PropFlow** — A full-funnel real estate automation system orchestrating intake, CRM entry, and nurture sequences via n8n[cite: 135, 137].
 
-### Full Stack / Web Projects
-
-* **Portfolio** — personal portfolio showcasing projects and skills
-* **Auraliz Client / API** — project work involving frontend and backend service structure
-* **CyberGovPH** — government-related development experience and system contribution
-
-> Replace these with your best pinned repositories and add direct links after you finalize which repos you want to highlight.
+> *(Link these to your respective repositories!)*
 
 ---
 
-## 🏆 Current Focus
+## 🏆 Achievements & Certifications
 
-* Secure backend development
-* DevOps fundamentals
-* Threat intelligence workflows
-* Building production-ready full stack applications
-* Growing from junior-level projects into scalable systems
+* [cite_start]**Winner** — Base PH Hackathon (Oct 2025) [cite: 58, 139]
+* [cite_start]**Top 4% Global Ranking** — TryHackMe Security Labs [cite: 59, 140]
+* [cite_start]**Fortinet Certified Associate Cybersecurity** (Mar 2026) [cite: 63, 144]
+* [cite_start]**Certified Phishing Prevention Specialist (CPPS)** [cite: 65, 146]
 
 ---
 
@@ -98,11 +98,11 @@ Computer Science student passionate about **software engineering, backend develo
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/eunille-apo-019416276)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge\&logo=github)](https://github.com/eunille)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eunille-apo-019416276)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github)](https://github.com/eunille)
 
 ---
 
 ## ✨ Profile Motto
 
-> Building useful systems, securing workflows, and learning every day.
+> [cite_start]"Building systems that reason, act, and escalate without human bottlenecks." [cite: 81]
