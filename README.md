@@ -8,13 +8,13 @@
 
 **Security Engineer · AI Automation Developer · Full-Stack Developer** 
 
-[cite_start]I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools[cite: 79]. [cite_start]I am passionate about creating systems that can detect, reason, and respond—from real-time email classification engines to centralized threat intelligence microservices[cite: 7].
+I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools I am passionate about creating systems that can detect, reason, and respond—from real-time email classification engines to centralized threat intelligence microservices.
 
 🔭 Currently architecting **enterprise-grade AI automation platforms and phishing detection systems**.
-🌱 Focusing on **LLM tool calling, multi-step agent orchestration, and SOC operations**[cite: 11, 84].
+🌱 Focusing on **LLM tool calling, multi-step agent orchestration, and SOC operations**
 🛡️ Maintaining a **Top 4% global ranking on TryHackMe** out of 2M+ users.
-⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**[cite: 81].
-🎯 Goal: Continuously scale secure, AI-driven automation workflows[cite: 79, 94].
+⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**
+🎯 Goal: Continuously scale secure, AI-driven automation workflows
 
 ---
 
@@ -69,13 +69,13 @@
 ## 🌟 Featured Projects
 
 ### 🛡️ Security & AI Projects
-**Auralis (AI Phishing Detection)** — An enterprise-grade platform scoring emails in real-time across domain trust, SPF/DKIM/DMARC, and TI-API threat correlation[cite: 117, 120].
-**TI-API** — A centralized threat intelligence microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to reduce redundant API calls[cite: 95].
-**Incident Report Writer** — An AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting[cite: 123, 125].
+**Auralis (AI Phishing Detection)** — An enterprise-grade platform scoring emails in real-time across domain trust, SPF/DKIM/DMARC, and TI-API threat correlation
+**TI-API** — A centralized threat intelligence microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to reduce redundant API calls
+**Incident Report Writer** — An AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting
 
 ### 🌐 Autonomous Automation
-**AutoSystems** — A fully autonomous B2B lead qualification agent utilizing a dual-model LLM pipeline (Groq + Gemini) for real-time web research[cite: 111, 113].
-**PropFlow** — A full-funnel real estate automation system orchestrating intake, CRM entry, and nurture sequences via n8n[cite: 135, 137].
+**AutoSystems** — A fully autonomous B2B lead qualification agent utilizing a dual-model LLM pipeline (Groq + Gemini) for real-time web research
+**PropFlow** — A full-funnel real estate automation system orchestrating intake, CRM entry, and nurture sequences via n8n
 
 > *(Link these to your respective repositories!)*
 
@@ -83,10 +83,10 @@
 
 ## 🏆 Achievements & Certifications
 
-**Winner** — Base PH Hackathon (Oct 2025) [cite: 58, 139]
-**Top 4% Global Ranking** — TryHackMe Security Labs [cite: 59, 140]
-**Fortinet Certified Associate Cybersecurity** (Mar 2026) [cite: 63, 144]
-**Certified Phishing Prevention Specialist (CPPS)** [cite: 65, 146]
+**Winner** — Base PH Hackathon (Oct 2025)
+**Top 4% Global Ranking** — TryHackMe Security Labs
+**Fortinet Certified Associate Cybersecurity** (Mar 2026)
+**Certified Phishing Prevention Specialist (CPPS)**
 
 ---
 
