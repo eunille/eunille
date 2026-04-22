@@ -1,32 +1,32 @@
 # Hi there, I'm Eunille Jan
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eunille&label=Profile%20views&color=0e75b6&style=flat" alt="eunille" />
+  <img src="https://komarev.com/ghpvc/?username=eunille&label=Profile%20views&color=0e75b6&style=flat" alt="eunille" />
 </p>
 
 ## About Me
 
-[cite_start]**Security Engineer · AI Automation Developer · Full-Stack Developer** 
+**Security Engineer · AI Automation Developer · Full-Stack Developer** 
 
 [cite_start]I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools[cite: 79]. [cite_start]I am passionate about creating systems that can detect, reason, and respond—from real-time email classification engines to centralized threat intelligence microservices[cite: 7].
 
-* [cite_start]🔭 Currently architecting **enterprise-grade AI automation platforms and phishing detection systems**.
-* [cite_start]🌱 Focusing on **LLM tool calling, multi-step agent orchestration, and SOC operations**[cite: 11, 84].
-* [cite_start]🛡️ Maintaining a **Top 4% global ranking on TryHackMe** out of 2M+ users.
-* [cite_start]⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**[cite: 81].
-* [cite_start]🎯 Goal: Continuously scale secure, AI-driven automation workflows[cite: 79, 94].
+🔭 Currently architecting **enterprise-grade AI automation platforms and phishing detection systems**.
+🌱 Focusing on **LLM tool calling, multi-step agent orchestration, and SOC operations**[cite: 11, 84].
+🛡️ Maintaining a **Top 4% global ranking on TryHackMe** out of 2M+ users.
+⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**[cite: 81].
+🎯 Goal: Continuously scale secure, AI-driven automation workflows[cite: 79, 94].
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunille&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunille&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eunille&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunille&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eunille&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=eunille&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,23 +59,23 @@
 
 ## 💼 What I Build
 
-* [cite_start]🤖 **Autonomous AI Agents:** LLM tool calling, RAG pipelines, and multi-step orchestration[cite: 80].
-* [cite_start]🔐 **Security Platforms:** Enterprise phishing detection, SOC automation, and incident response tools[cite: 6].
-* [cite_start]🗃️ **Microservices & APIs:** Centralized threat intelligence APIs and scalable backend architectures[cite: 7].
-* [cite_start]⚙️ **Workflow Automation:** Trigger-action pipelines mapping complex business logic without manual intervention[cite: 87, 96].
+🤖 **Autonomous AI Agents:** LLM tool calling, RAG pipelines, and multi-step orchestration[cite: 80].
+🔐 **Security Platforms:** Enterprise phishing detection, SOC automation, and incident response tools[cite: 6].
+🗃️ **Microservices & APIs:** Centralized threat intelligence APIs and scalable backend architectures[cite: 7].
+⚙️ **Workflow Automation:** Trigger-action pipelines mapping complex business logic without manual intervention[cite: 87, 96].
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🛡️ Security & AI Projects
-* [cite_start]**Auralis (AI Phishing Detection)** — An enterprise-grade platform scoring emails in real-time across domain trust, SPF/DKIM/DMARC, and TI-API threat correlation[cite: 117, 120].
-* [cite_start]**TI-API** — A centralized threat intelligence microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to reduce redundant API calls[cite: 95].
-* [cite_start]**Incident Report Writer** — An AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting[cite: 123, 125].
+**Auralis (AI Phishing Detection)** — An enterprise-grade platform scoring emails in real-time across domain trust, SPF/DKIM/DMARC, and TI-API threat correlation[cite: 117, 120].
+**TI-API** — A centralized threat intelligence microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to reduce redundant API calls[cite: 95].
+**Incident Report Writer** — An AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting[cite: 123, 125].
 
 ### 🌐 Autonomous Automation
-* [cite_start]**AutoSystems** — A fully autonomous B2B lead qualification agent utilizing a dual-model LLM pipeline (Groq + Gemini) for real-time web research[cite: 111, 113].
-* [cite_start]**PropFlow** — A full-funnel real estate automation system orchestrating intake, CRM entry, and nurture sequences via n8n[cite: 135, 137].
+**AutoSystems** — A fully autonomous B2B lead qualification agent utilizing a dual-model LLM pipeline (Groq + Gemini) for real-time web research[cite: 111, 113].
+**PropFlow** — A full-funnel real estate automation system orchestrating intake, CRM entry, and nurture sequences via n8n[cite: 135, 137].
 
 > *(Link these to your respective repositories!)*
 
@@ -83,17 +83,17 @@
 
 ## 🏆 Achievements & Certifications
 
-* [cite_start]**Winner** — Base PH Hackathon (Oct 2025) [cite: 58, 139]
-* [cite_start]**Top 4% Global Ranking** — TryHackMe Security Labs [cite: 59, 140]
-* [cite_start]**Fortinet Certified Associate Cybersecurity** (Mar 2026) [cite: 63, 144]
-* [cite_start]**Certified Phishing Prevention Specialist (CPPS)** [cite: 65, 146]
+**Winner** — Base PH Hackathon (Oct 2025) [cite: 58, 139]
+**Top 4% Global Ranking** — TryHackMe Security Labs [cite: 59, 140]
+**Fortinet Certified Associate Cybersecurity** (Mar 2026) [cite: 63, 144]
+**Certified Phishing Prevention Specialist (CPPS)** [cite: 65, 146]
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eunille/eunille/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/eunille/eunille/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 🤝 Connect With Me
