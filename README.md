@@ -6,7 +6,7 @@
 
 ## About Me
 
-**Security Engineer · AI Automation Developer · Full-Stack Developer** 
+**Security Engineer · AI Automation Developer · Full-Stack Developer · AI Agent Developer** 
 
 I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools I am passionate about creating systems that can detect, reason, and respond—from real-time email classification engines to centralized threat intelligence microservices.
 
