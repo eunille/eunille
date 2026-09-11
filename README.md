@@ -6,14 +6,14 @@
 
 ## About Me
 
-**AI Agent Developer · Automation Engineer · Full-Stack Developer · Security Engineer**
+**AI Engineer · AWS Cloud Architect · AI DevOps · Automation Engineer · Full-Stack Developer**
 
-I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools. I'm passionate about creating systems that can detect, reason, and respond — from real-time email classification engines to centralized threat intelligence microservices.
+I build autonomous AI systems, end-to-end workflow automation platforms, and enterprise-grade threat detection tools — deploying and scaling them on AWS cloud infrastructure. I'm passionate about creating systems that can detect, reason, and respond — from real-time email classification engines to centralized threat intelligence microservices.
 
 🔭 Currently **Tech Lead / Automation Architect @ Catalyx Solutions**, architecting enterprise-grade AI automation platforms and phishing detection systems.
 🌱 Focusing on **LLM tool calling, multi-step agent orchestration, and RAG pipelines**
+☁️ Deploying and managing AI workloads on **AWS cloud infrastructure** (EC2, S3, DynamoDB, Route53)
 🛡️ Maintaining a **Top 4% global ranking on TryHackMe** out of 2M+ users
-🎓 BS Computer Science @ **Gordon College** (Expected July 2026)
 ⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**
 🎯 Goal: Continuously scale secure, AI-driven automation workflows
 
@@ -60,6 +60,8 @@ I build autonomous AI systems, end-to-end workflow automation platforms, and ent
 ![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render)
 
 ---
 
