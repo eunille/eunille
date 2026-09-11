@@ -15,6 +15,7 @@ I build autonomous AI systems, end-to-end workflow automation platforms, and ent
 ☁️ Deploying and managing AI workloads on **AWS cloud infrastructure** (EC2, S3, DynamoDB, Route53)
 🛡️ Maintaining a **Top 4% global ranking on TryHackMe** out of 2M+ users
 ⚙️ Building autonomous systems that **reason, act, and escalate without human bottlenecks**
+
 🎯 Goal: Continuously scale secure, AI-driven automation workflows
 
 ---
