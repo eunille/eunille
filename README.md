@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=190&section=header&text=Eunille%20Jan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20AWS%20Cloud%20Architect%20%C2%B7%20AI%20DevOps&descSize=18&descAlignY=58&animation=fadeIn" alt="Eunille Jan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=190&section=header&text=Eunille%20Jan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20AWS%20Cloud%20Architect%20%C2%B7%20AI%20DevOps&descSize=17&descAlignY=58&animation=fadeIn" alt="Eunille Jan" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=Building+agents+that+reason%2C+act+%26+escalate;LLM+tool+calling+%C2%B7+RAG+%C2%B7+multi-step+orchestration;Deploying+AI+workloads+on+AWS;Founder+%40+Catalyx+Solutions;Top+4%25+globally+on+TryHackMe" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=Software+Engineer+shipping+AI+%26+cloud+systems;Building+agents+that+reason%2C+act+%26+escalate;LLM+tool+calling+%C2%B7+RAG+%C2%B7+multi-step+orchestration;Deploying+AI+workloads+on+AWS;Founder+%40+Catalyx+Solutions;Top+4%25+globally+on+TryHackMe" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm an **AI Engineer**, **AWS Cloud Architect**, and **AI DevOps** specialist passionate about building, automating, and securing technology.
+I'm a **Software Engineer**, **AI Engineer**, **AWS Cloud Architect**, and **AI DevOps** specialist passionate about building, automating, and securing technology.
 
 I specialize in **AI Engineering & Cloud Architecture** ☁️, **Full-Stack Web Development** 💻, and **Cybersecurity (SOC Analyst path)** 🛡️ — combining creative problem-solving with analytical thinking to build secure, efficient, AI-powered solutions deployed at scale on the cloud.
 
@@ -148,17 +148,15 @@ Ranked in the **Top 4% globally on TryHackMe** and a proud **DataCamp Scholar**,
 
 ## 📊 GitHub Analytics
 
+<!-- ponytail: github-readme-stats + activity-graph public instances are dead (503/402); summary-cards is live -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eunille&show_icons=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunille&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eunille&theme=tokyonight" alt="Profile details and contributions" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=eunille&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://raw.githubusercontent.com/eunille/eunille/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eunille&theme=tokyonight" alt="GitHub stats" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eunille&theme=tokyonight" alt="Most commit language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eunille&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </p>
 
 <!-- Footer -->
