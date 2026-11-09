@@ -35,7 +35,7 @@ Ranked in the **Top 4% globally on TryHackMe** and a proud **DataCamp Scholar**,
 
 <table>
   <tr>
-    <td valign="top">
+    <td colspan="2" valign="top">
       <h3>🔥 Ember — Self-Hosted Multi-Agent AI Chat Platform</h3>
       Open-source chat platform where every AI bot has its own role, model, tools, and persistent memory — bots collaborate in shared rooms via <b>@mentions</b>, AI-routed auto-assignment, and agent-to-agent hand-offs.
       <ul>
@@ -48,11 +48,45 @@ Ranked in the **Top 4% globally on TryHackMe** and a proud **DataCamp Scholar**,
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <h3>🗃️ TI-API</h3>
+    <td width="50%" valign="top">
+      <h4>🛡️ Auralis</h4>
+      Enterprise AI phishing detection — scores emails in real time across domain trust, SPF/DKIM/DMARC, and threat-intel correlation.
+      <br /><br />
+      <sub><code>AI</code> <code>Email Security</code> <code>TI-API</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗃️ TI-API</h4>
       Centralized threat-intel microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to cut redundant API calls.
       <br /><br />
       <sub><code>Microservice</code> <code>Threat Intel</code> <code>API</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📝 Incident Report Writer</h4>
+      AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting.
+      <br /><br />
+      <sub><code>AI Agent</code> <code>SOC</code> <code>SIEM</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AutoSystems</h4>
+      Fully autonomous B2B lead-qualification agent using a dual-model LLM pipeline (Groq + Gemini) for real-time web research.
+      <br /><br />
+      <sub><code>Groq</code> <code>Gemini</code> <code>Agents</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏠 PropFlow</h4>
+      Full-funnel real estate automation orchestrating intake, CRM entry, and nurture sequences.
+      <br /><br />
+      <sub><code>n8n</code> <code>CRM</code> <code>Automation</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 AI Customer Inquiry Chatbot</h4>
+      Multi-layer chatbot with confidence-based human escalation and a Next.js dashboard for volume, intent, and confidence trends.
+      <br /><br />
+      <sub><code>Next.js</code> <code>LLM</code> <code>Analytics</code></sub>
     </td>
   </tr>
 </table>
