@@ -35,45 +35,24 @@ Ranked in the **Top 4% globally on TryHackMe** and a proud **DataCamp Scholar**,
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ Auralis</h4>
-      Enterprise AI phishing detection — scores emails in real time across domain trust, SPF/DKIM/DMARC, and threat-intel correlation.
-      <br /><br />
-      <sub><code>AI</code> <code>Email Security</code> <code>TI-API</code></sub>
+    <td valign="top">
+      <h3>🔥 Ember — Self-Hosted Multi-Agent AI Chat Platform</h3>
+      Open-source chat platform where every AI bot has its own role, model, tools, and persistent memory — bots collaborate in shared rooms via <b>@mentions</b>, AI-routed auto-assignment, and agent-to-agent hand-offs.
+      <ul>
+        <li><b>Model fallback chain</b> — on rate limits, quota exhaustion, or outages a run switches to up to two backup tool-capable models mid-task without repeating completed steps; free-tier bots only fall back to free models</li>
+        <li><b>Local model relay</b> — Electron desktop app installs signature-verified Ollama and runs inference on the user's own PC: private, free, no admin rights</li>
+        <li><b>Live &amp; governed</b> — replies and tool steps streamed over SSE, human-in-the-loop approvals (Allow / Ask / Deny), scheduled routines, versioned Markdown memory with secret redaction</li>
+        <li><b>Production-ready</b> — workspace RBAC, AES-256-GCM key encryption, usage &amp; budget dashboard</li>
+      </ul>
+      <sub><code>Next.js 16</code> <code>React 19</code> <code>Mastra</code> <code>PostgreSQL 17</code> <code>Prisma 7</code> <code>Better Auth</code> <code>SSE</code> <code>Electron</code> <code>Ollama</code> <code>Docker</code></sub>
     </td>
-    <td width="50%" valign="top">
-      <h4>🗃️ TI-API</h4>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🗃️ TI-API</h3>
       Centralized threat-intel microservice aggregating AlienVault OTX, AbuseIPDB, Shodan, and VirusTotal to cut redundant API calls.
       <br /><br />
       <sub><code>Microservice</code> <code>Threat Intel</code> <code>API</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📝 Incident Report Writer</h4>
-      AI agent that reconstructs attack timelines from raw SIEM exports for automated SOC compliance reporting.
-      <br /><br />
-      <sub><code>AI Agent</code> <code>SOC</code> <code>SIEM</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AutoSystems</h4>
-      Fully autonomous B2B lead-qualification agent using a dual-model LLM pipeline (Groq + Gemini) for real-time web research.
-      <br /><br />
-      <sub><code>Groq</code> <code>Gemini</code> <code>Agents</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏠 PropFlow</h4>
-      Full-funnel real estate automation orchestrating intake, CRM entry, and nurture sequences.
-      <br /><br />
-      <sub><code>n8n</code> <code>CRM</code> <code>Automation</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💬 AI Customer Inquiry Chatbot</h4>
-      Multi-layer chatbot with confidence-based human escalation and a Next.js dashboard for volume, intent, and confidence trends.
-      <br /><br />
-      <sub><code>Next.js</code> <code>LLM</code> <code>Analytics</code></sub>
     </td>
   </tr>
 </table>
